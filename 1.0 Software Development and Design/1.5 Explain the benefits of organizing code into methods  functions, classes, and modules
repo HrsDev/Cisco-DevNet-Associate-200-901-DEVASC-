@@ -1,0 +1,19 @@
+Control Flow Satements - Manage Which code executes When,How often, and whether or not it repeats 
+
+--------Example of Control Flow Satements---------
+Conditionals (ift- Then- Else )
+Loops ( While, For)
+Exception Handeling (try) - can Run when an error happens- 
+Goto AnD Retrun   -used to Jump around in your code-
+
+
+Control Flow Satements are used in imperative Programing
+
+
+Imperative Programing Process (  How we want to... )  is described step by step - how you want to execute you Program
+example - python, java
+
+
+Declarative Programming Result ( what we want.... ) is D and process is left to compiler 
+example- SQL
+
