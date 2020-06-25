@@ -1,20 +1,48 @@
-Control Flow Satements - Manage Which code executes When,How often, and whether or not it repeats 
+Control Flow Statements - Manage Which code executes When, how often, and whether or not it repeats 
 
---------Example of Control Flow Satements---------
-Conditionals (ift- Then- Else )
-Loops ( While, For)
-Exception Handeling (try) - can Run when an error happens- 
-Goto AnD Retrun   -used to Jump around in your code-
-
-
-Control Flow Satements are used in imperative Programing
+--------Example of Control Flow Statements---------
+Conditionals (if- Then- Else)
+Loops (While, For)
+Exception Handling (try) - can Run when an error happens- 
+Got and Return   -used to Jump around in your code-
 
 
-Imperative Programing Process (  How we want to... )  is described step by step - how you want to execute you Program
+Control Flow Statements are used in imperative Programing
+
+
+Imperative Programing Process (How we want to...)  is described step by step - how you want to execute you Program
 example - python, java
 
 
-Declarative Programming Result ( what we want.... ) is D and process is left to compiler 
+Declarative Programming Result (what we want....) is D and process is left to compiler 
+example- SQL
 
 Conditionals Statement - if then else - allow for different branches of code 
-branches are exculsive branches can spawn additonal branches 
+branches are exclusive branches can spawn additional branches
+
+Loops and Iteration 
+Loops – allow for code to be executed multiple times in succession 
+Loops can be nested and conditionals 
+D.R.Y – DON’T REPEAT YOURSLEF 
+
+Functions and Methods 
+Functions - allow for a block of code to be assigned to a symbol and invoked on-demand 
+Methods – are functions defined as part of a class and invoked by instances of that class 
+
+Objected Oriented Programing ( OOP ) is An “architectural Style Supported by many programing languages 
+OOP is the use of objects which are instances of a class 
+Objects in OOP can be created, destroyed, and manipulated in isolation from another 
+OOP should be ……
+Maintainable – over time can go and update and change your code 
+Debuggable – code that you can fix 
+Testable – code that can be testable 
+Legible – some ones else should be able to read it 
+
+Class State and behavior
+Class = Blueprint of the House 
+Objects = houses 
+
+Classes have 2 parts State and behavior 
+State – what is the condition 
+Behavior 
+
