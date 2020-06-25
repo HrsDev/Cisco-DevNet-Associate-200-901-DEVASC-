@@ -17,3 +17,5 @@ example - python, java
 Declarative Programming Result ( what we want.... ) is D and process is left to compiler 
 example- SQL
 
+Conditionals Statement - if then else - allow for different branches of code 
+branches are exculsive branches can spawn additonal branches 
